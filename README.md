@@ -1,2 +1,4 @@
-# advent-of-code-2020
-repo for advent of code 2020
+# advent of code 2020
+
+####day 1: :star::star:
+####day 2:
